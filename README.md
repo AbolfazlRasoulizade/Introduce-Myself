@@ -9,4 +9,4 @@ I am 15, I love programing.
 
 > I am learning ***ECMA*** but i don't have any idea about it.  
 >>I have a lot of **dream** and i think all of them aligned with programming.  
->>>[I study ECMA from AliMD](https://github.com/AliMD)
+>>>[I'm studing ECMA from AliMD](https://github.com/AliMD)
